@@ -43,15 +43,8 @@ Mac OS or Windows (WSL2), bash, Ruby on Rails, AWS, Digital Ocean, Docker, Erlan
 
 ## Feedback
 
-I appreciate timely and relevant feedback. I appreciate people who take the time to formulate it in a way 
-that is actionable and understandable.
-
-I appreciate feedback that is anchored in being the best and doing the best.
-
-Feel free to PR here to:
-
-a) let me know something I've got wrong
-b) let me know something else that is overwhelmingly me that I've missed!
+I respond to and recieve feedback well. I appreciate it if you take the time to formulate your feedback and 
+make it so that the team can understand. Easily digestable feedback.
 
 ## Things That *Really* Bug Me
 
